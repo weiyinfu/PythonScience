@@ -1,0 +1,18 @@
+[submodule "learnNumpy"]
+	path = learnNumpy
+	url = git@github.com:weiyinfu/learnNumpy.git
+[submodule "learnMatplotlib"]
+	path = learnMatplotlib
+	url = git@github.com:weiyinfu/learnMatplotlib
+[submodule "learnPytorch"]
+	path = learnPytorch
+	url = git@github.com:weiyinfu/learnPytorch
+[submodule "learnSklearn"]
+	path = learnSklearn
+	url = git@github.com:weiyinfu/learnSklearn
+[submodule "learnSympy"]
+	path = learnSympy
+	url = git@github.com:weiyinfu/learnSympy
+[submodule "learnScipy"]
+	path = learnScipy
+	url = git@github.com:weiyinfu/learnScipy
